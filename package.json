@@ -1,0 +1,32 @@
+{
+  "name": "@apiverve/wordsextractor",
+  "version": "1.0.0",
+  "description": "Word Extractor is a simple tool for extracting nouns, verbs, adjectives, adverbs, and more from text. It returns the extracted words based on the specified part of speech.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apiverve/wordsextractor-API.git"
+  },
+  "keywords": [
+    "word extractor"," word extractor api"," word extractor tool"," word extractor software"," word extractor service"," word extractor library"," word extractor sdk"," word extractor code"," word extractor script"," word extractor program"," word extractor application"," word extractor app"," word extractor utility"," word extractor helper"," word extractor helper tool"," word extractor helper software"," word extractor helper service"," word extractor helper library"," word extractor helper sdk"," word extractor helper code"," word extractor helper script"," word extractor helper program"," word extractor helper application"," word extractor helper app"," word extractor helper utility"," word extractor helper"
+  ],
+  "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apiverve/wordsextractor-API/issues"
+  },
+  "homepage": "https://github.com/apiverve/wordsextractor-API",
+  "devDependencies": {
+    "mocha": "^2.3.4",
+    "chai": "^3.4.1",
+    "dotenv": "^2.0.0"
+  },
+  "dependencies": {
+    "node-fetch": "3.3.2",
+    "promise": "^7.1.1",
+    "request": "^2.69.0"
+  }
+}
