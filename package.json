@@ -11,7 +11,7 @@
     "url": "git+https://github.com/apiverve/wordsextractor-API.git"
   },
   "keywords": [
-    "word extractor"," word extractor api"," word extractor tool"," word extractor software"," word extractor service"," word extractor library"," word extractor sdk"," word extractor code"," word extractor script"," word extractor program"," word extractor application"," word extractor app"," word extractor utility"," word extractor helper"," word extractor helper tool"," word extractor helper software"," word extractor helper service"," word extractor helper library"," word extractor helper sdk"," word extractor helper code"," word extractor helper script"," word extractor helper program"," word extractor helper application"," word extractor helper app"," word extractor helper utility"," word extractor helper"
+    "word extractor","word extractor api","word extractor tool","word extractor software","word extractor service"
   ],
   "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
   "license": "MIT",
@@ -27,6 +27,6 @@
   "dependencies": {
     "node-fetch": "3.3.2",
     "promise": "^7.1.1",
-    "request": "^2.69.0"
+    "axios": "^0.15.3"
   }
 }
